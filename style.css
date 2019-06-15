@@ -1,0 +1,43 @@
+body {
+	margin: 0px;
+}
+
+main {
+	margin-top: 100px;
+}
+
+header {
+	text-align: center;
+}
+
+	#timer {
+		text-align: center;
+		font-size: 40px;
+		margin: 60px;
+		margin-bottom: -20px;
+		margin-left: auto;
+		margin-right: auto;
+		color: black;
+		width: 300px;
+	}
+
+	#timer:hover {
+		background-color: black;
+		color: white;
+	}
+
+a {
+	text-decoration: none;
+}
+
+.entry {
+	border-top: solid;
+	border-color: lightgrey;
+	max-width: 800px;
+	margin: 50px 50px 0px 50px;
+}
+
+#milestone {
+	background-image: linear-gradient(to bottom right, yellow, white);
+	padding: 5px;
+}
